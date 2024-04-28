@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+body{
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1707e452-eddb-4b53-a2d2-be332866adad/ddle43s-52197d60-a2ea-4b10-afe3-8323ae215896.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE3MDdlNDUyLWVkZGItNGI1My1hMmQyLWJlMzMyODY2YWRhZFwvZGRsZTQzcy01MjE5N2Q2MC1hMmVhLTRiMTAtYWZlMy04MzIzYWUyMTU4OTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3LhMlvyASZlP7R6HWGFNRJ8MpDGoGNnt-ZioCMiLCr8");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    color:rgb(0, 0, 0);
+    font-family: poppins;
+}
+.login{
+    background-color: white;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    padding:40px 40px;
+    border-radius: 12px;
+}
+.desc2{
+    color:#4c4d52;
+    margin-left:40px;
+    font-size:13px;
+}
+.login h2{
+    margin-left:40px;
+}
+.login h5{
+    margin-left:40px;
+}
+.down{
+    font-size:12px;
+    margin-top:90px;
+    margin-left:40px;
+}
+.login input{
+    position: absolute;
+    top:55%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    border:none;
+    background-color: #eeeeee;
+    width: 440px;
+    height: 60px;
+    font-size: 18px;
+    border-radius: 7px;
+}
+.login label{
+    position: absolute;
+    top:60%;
+    left:8%;
+    transform: translate(-50%,-50%);
+}
+.input1:focus{
+    outline:none;
+}
+.login button{
+    cursor: pointer;
+    position: absolute;
+    top:68%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    padding: 20px 200px;
+    background-color: black;
+    color:white;
+    border-radius: 20px;
+    border:none;
+}
+.imglogo{
+    position: absolute;
+    top:10%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.disney{
+    margin-left:40px;
+}
+.etc{
+    position: absolute;
+    top:78.6%;
+    left:51%;
+    transform: translate(-50%,-50%);
+}
+.login button:hover{
+    background-color: rgb(26, 26, 26);
+}
